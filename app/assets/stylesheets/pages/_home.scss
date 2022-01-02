@@ -5,7 +5,12 @@
  justify-content: space-around;
  align-items: center;
  margin-bottom: 50px;
+ flex-wrap: wrap;
  
+ .card{
+  min-height:300px;
+  margin-bottom: 20px;
+ }
 
  .card  img{
   width: 100%;
